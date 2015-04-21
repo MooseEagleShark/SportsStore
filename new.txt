@@ -1,1 +1,3 @@
 foo
+
+This is what happens if a collaborator wants to fork your project, so they can make changes to it, and then asks for a pull request back to your master project.
